@@ -1,1 +1,3 @@
-This is Big Chungus’s first git project
+Git_test
+This is my first git project, started 2 years ago, finishing today.
+Hello Odin!
